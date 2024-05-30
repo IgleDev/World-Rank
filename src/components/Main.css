@@ -1,0 +1,31 @@
+body{
+    background-color: #1C1D1F;
+}
+
+main{
+    background-color: #1C1D1F;
+}
+
+.search input{
+    color: #ffffff;
+    text-align: center;
+    border-radius: 15px;
+    border: transparent;
+    background-color: #282B30;
+}
+
+.regions button{
+    margin: 5%;
+    border: 0px;
+    outline: none;
+    color: #6C727F;
+    font-weight: 700;
+    background-color: transparent;
+}
+
+.regions button:active, .regions button:focus {
+    color: #ffffff;
+    padding: 3%;
+    border-radius: 10px;
+    background-color: #282B30; 
+}

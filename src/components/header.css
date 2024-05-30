@@ -1,0 +1,11 @@
+header{
+    background-color: #1B1D1F;
+}
+
+.container-fluid{
+    width: 100%;
+    padding: 5% 0% 8% 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../img/hero-image-wr.jpg");
+}
