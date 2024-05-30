@@ -1,13 +1,1 @@
-- Seleccionar tipografía y título. ✔️
-- Hacer un modal explicando las reglas del juego.
-- Hacer un modal para poner tu código
-- Hacer un juego 1 vs 1 o Tu vs la máquina.
-- Hacer un componentes arriba de la fase del código para introducir el código tuyo.
-- Hacer un componente con 4 cuadros donde puedas utilizar para introducir 1 número
-- Cuando llegue al último y le de al enter se manda y se comprueba
-- Hacer un footer que ponga 'Desarrollado con amor por IgleDev' y un emoji de corazón
 
-- Aciertos
-- Si acierta algún número los bordes de las cajas son de color naraja
-- Si no acierta ningun número no cambian el color
-- Si aciertan todo el bordes de las cajas son de color verde
